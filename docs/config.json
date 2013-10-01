@@ -1,0 +1,33 @@
+{
+	"title": "Crafty.js",
+	"tagline": "A tagline, whee!",
+	"image": "",
+	"theme": "custom",
+  "colors": {
+    "sidebar-background": "#f7f7f7",
+    "sidebar-hover": "#c5c5cb",
+    "lines": "#e7e7e9",
+    "dark": "#2d2d2d",
+    "light": "#ffffff",
+    "text": "#2d2d2d",
+    "background": "#fff",
+    "syntax-default": "#cccccc",
+    "syntax-string": "#99cc99",
+    "syntax-comment": "#999999",
+    "syntax-number": "#f99157",
+    "syntax-label": "#840d7a",
+    "syntax-keyword": "#cc99cc",
+    "syntax-background": "#2d2d2d"
+  },
+	"date_modified": true,
+  "float": false,
+	"repo": "justinwalsh/daux.io",
+	"twitter": ["justin_walsh", "todaymade"],
+	"google_analytics": "UA-XXXXXXXX-XX",
+	"links": {
+		"Download": "https://github.com/justinwalsh/daux.io/archive/master.zip",
+		"GitHub Repo": "https://github.com/justinwalsh/daux.io",
+		"Help/Support/Bugs": "https://github.com/justinwalsh/daux.io/issues",
+		"Made by Todaymade": "http://todaymade.com"
+	}
+}
